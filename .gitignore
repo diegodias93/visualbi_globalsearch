@@ -1,0 +1,8 @@
+node_modules/
+.tmp/
+dist/
+webpack.statistics.prod.html
+webpack.statistics.dev.html
+build_output.txt
+build_output2.txt
+.claude/
